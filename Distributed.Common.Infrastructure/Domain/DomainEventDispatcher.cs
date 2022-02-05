@@ -1,4 +1,4 @@
-﻿using Distributed.Common.Infrastructure.Domain.DomainEventPublisher;
+﻿using Distributed.Common.Infrastructure.Domain.Events;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Distributed.Common.Infrastructure.Domain;
